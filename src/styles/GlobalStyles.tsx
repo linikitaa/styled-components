@@ -8,8 +8,8 @@ export const GlobalStyles = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
-  
+
   body {
-    background-color: darkslateblue;
+    background-color: #f8e8a7;
   }
 `
